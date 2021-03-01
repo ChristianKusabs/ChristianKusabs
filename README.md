@@ -1,4 +1,4 @@
-### Howdy!
+## Howdy!
 
 My names Christian 	👋. I'm a recent Computer Science Grad from the University of Adelaide.
 
